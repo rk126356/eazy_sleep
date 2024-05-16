@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007354517865",
+    "project_id": "eazysleep-3f229",
+    "storage_bucket": "eazysleep-3f229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007354517865:android:59dec86c601d7a952b85f8",
+        "android_client_info": {
+          "package_name": "com.raihansk.eazy_sleep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007354517865-2mm11cc01m9o6svhd0jeq4p2d3v03ha9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raihansk.eazy_sleep",
+            "certificate_hash": "d8e94b01cf66bc0245985784ac21ccdcd1d0ea2c"
+          }
+        },
+        {
+          "client_id": "1007354517865-4vh8gpof5k74bccca225a106l7mbthd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6rvDFoi4HhuIWWMdkRmUtzI7t203xiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007354517865-4vh8gpof5k74bccca225a106l7mbthd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
